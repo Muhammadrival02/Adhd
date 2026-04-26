@@ -1,0 +1,15 @@
+export const LIFE_PHASES = [
+  { id: 'child-7', name: 'Usia 7 Tahun (Anak)', category: 'Anak & Remaja' },
+  { id: 'teen-13', name: 'Usia 13 Tahun (Remaja)', category: 'Anak & Remaja' },
+  { id: 'adult-18', name: 'Dewasa 18+ (Univ/Fresh Grad)', category: 'Transisi & Dewasa' },
+  { id: 'pro-single', name: 'Profesional Lajang', category: 'Transisi & Dewasa' },
+  { id: 'freelance-single', name: 'Freelancer Lajang', category: 'Transisi & Dewasa' },
+  { id: 'married', name: 'Fase Berumah Tangga', category: 'Komitmen Rumah Tangga' },
+  { id: 'freelance-married', name: 'Freelancer Berumah Tangga', category: 'Komitmen Rumah Tangga' },
+  { id: 'working-parent', name: 'Orang Tua Bekerja', category: 'Komitmen Rumah Tangga' },
+  { id: 'student-worker', name: 'Mahasiswa Pekerja', category: 'Beban Ganda (Dual)' },
+  { id: 'student-married', name: 'Mahasiswa Berumah Tangga', category: 'Beban Ganda (Dual)' },
+  { id: 'student-freelance', name: 'Mahasiswa Freelancer', category: 'Beban Ganda (Dual)' },
+  { id: 'triage-3d', name: 'Triase 3 Dimensi', category: 'Mode Kritis Ekstrem' },
+  { id: 'survival-4star', name: 'Survival Bintang 4', category: 'Mode Kritis Ekstrem' },
+];
